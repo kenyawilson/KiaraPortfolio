@@ -1,0 +1,21 @@
+body {
+    background: url("background.svg") black center no-repeat;
+}
+
+.myHeader {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+}
+
+.photo {
+    width: 400px;
+    height: auto;
+}
+
+.class-grid {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
